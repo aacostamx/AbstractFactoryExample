@@ -1,0 +1,6 @@
+c:\users\linko\documents\visual studio 2015\Projects\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\AbstractFactoryExample.exe.config
+c:\users\linko\documents\visual studio 2015\Projects\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\AbstractFactoryExample.exe
+c:\users\linko\documents\visual studio 2015\Projects\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\AbstractFactoryExample.pdb
+c:\users\linko\documents\visual studio 2015\Projects\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.csprojResolveAssemblyReference.cache
+c:\users\linko\documents\visual studio 2015\Projects\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.exe
+c:\users\linko\documents\visual studio 2015\Projects\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.pdb
