@@ -1,5 +1,5 @@
 ﻿//------------------------------------------------------------------------
-// <copyright file="AbstractFactoryExample" company="Volaris">
+// <copyright file="AbstractFactoryExample" company="AACOSTA">
 //     Copyright (c) AACOSTA All rights reserved.
 //     Website: http://aacosta.com.mx/
 // </copyright>
